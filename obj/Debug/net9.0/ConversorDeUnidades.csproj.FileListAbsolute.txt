@@ -1,0 +1,14 @@
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\bin\Debug\net9.0\ConversorDeUnidades.exe
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\bin\Debug\net9.0\ConversorDeUnidades.deps.json
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\bin\Debug\net9.0\ConversorDeUnidades.runtimeconfig.json
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\bin\Debug\net9.0\ConversorDeUnidades.dll
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\bin\Debug\net9.0\ConversorDeUnidades.pdb
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.AssemblyInfoInputs.cache
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.AssemblyInfo.cs
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.csproj.CoreCompileInputs.cache
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.dll
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\refint\ConversorDeUnidades.dll
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.pdb
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ConversorDeUnidades.genruntimeconfig.cache
+C:\Users\kelvy\Desktop\ﾠ\Projetos\ConversorDeUnidades\obj\Debug\net9.0\ref\ConversorDeUnidades.dll
